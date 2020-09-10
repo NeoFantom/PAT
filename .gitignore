@@ -1,0 +1,24 @@
+# latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.log
+*.xdv  
+*.out
+*.gz
+
+# compiled
+*.dump
+*.exe
+*.jar
+*.class
+
+*.s
+
+# pictures
+*.jpg
+
+# Extension: CodeRunner
+tempCodeRunnerFile*

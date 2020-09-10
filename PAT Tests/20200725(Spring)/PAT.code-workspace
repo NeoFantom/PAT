@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "files.associations": {
+            "*.h": "c",
+            "algorithm": "cpp",
+            "unordered_set": "cpp"
+        }
+    }
+}
