@@ -1,13 +1,6 @@
 import sys
 
 
-def group(li, size):
-    newli = []
-    for i in range(size):
-        newli.append(li[i::size])
-    return list(zip(*newli))
-
-
 def getPoly():
     li = input().split(' ')
     K = int(li.pop(0))

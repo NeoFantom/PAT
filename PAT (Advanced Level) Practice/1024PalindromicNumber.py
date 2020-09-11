@@ -1,5 +1,3 @@
-import math as m
-
 Ns, Ks = input().split(" ")
 Rs = Ns[::-1]
 K = int(Ks)
