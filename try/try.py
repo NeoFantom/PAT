@@ -1,5 +1,4 @@
 from collections import defaultdict
 
-x = defaultdict(lambda:0)
-print(list(x.items()))
-print('hello')
+print(36 ** 10)
+print(2 ** 64)
